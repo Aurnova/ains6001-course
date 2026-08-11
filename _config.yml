@@ -1,0 +1,23 @@
+title: AINS6001 Foundations of Artificial Intelligence
+author: Castalia Institute
+only_build_toc_files: true
+exclude_patterns:
+  - .venv/**
+  - _build/**
+  - site/**
+  - .devcontainer/**
+execute:
+  execute_notebooks: force
+launch_buttons:
+  thebe: true
+parse:
+  myst_enable_extensions:
+    - colon_fence
+    - deflist
+    - dollarmath
+    - html_admonition
+    - html_image
+sphinx:
+  config:
+    html_title: AINS6001 Foundations of Artificial Intelligence
+    html_baseurl: https://ains6001.courses.castalia.institute/book/
