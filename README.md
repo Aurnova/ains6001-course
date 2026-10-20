@@ -5,6 +5,7 @@ Public cohort clone repository for **AINS6001** / Aurnova MSAI.
 - **Clone:** `https://github.com/Aurnova/ains6001-course.git`
 - **Codespaces:** [https://codespaces.new/Aurnova/ains6001-course](https://codespaces.new/Aurnova/ains6001-course)
 - **Colab labs:** open a notebook under `notebooks/` and use the Colab badge at the top.
+- **Lab and assignment access:** [Open the workspace guide](workspace-guide.md) for direct Colab links and the GitHub assignment workflow.
 
 ## Contents
 
